@@ -54,7 +54,7 @@ Sunday                   923 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/َIran
 
 💬 Programming Languages: 
 Next js                  51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
