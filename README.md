@@ -1,60 +1,82 @@
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx afazsad
+```
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const afazsad = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Web Dev", "App Dev"],
+    technologies: ["Html", "Css", "Javascript", "Bootstarp", "Tailwind", "Reacr Js", "Next Js", "Styled Components", "Chart Js", "Material Ui", "Ant Desgin", "React Query", 'Redux', 'Typescript', "Sass",],
+    currentFocus: 'Currently, I want to learn backend development with JavaScript',
+    funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs%2036%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100000000000000000000000-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1000000%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 182.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2024
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+🌆 Daytime                1708 commits        ██████████░░░░░░░░░░░░░░░   39.04 % 
+🌃 Evening                1424 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌙 Night                  828 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                792 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Friday                   468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Saturday                 578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Sunday                   923 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+```
 
 
-### social network
+📊 **This Week I Spent My Time On** 
 
-<a href="https://github.com/afazsad" target="_blank"><img class="icon"  width="30px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
+```text
+🕑︎ Time Zone: Asia/Kolkata
 
-[//]: # (<a href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>)
+💬 Programming Languages: 
+Next js                  51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Styled Component         34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
-[//]: # (<a href="http://T.me/shahiinnnnn" target="_blank"><img class="icon" align="left" alt="telegram" width="30px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>)
+🔥 Editors: 
+WebStorm                 5 hrs 31 mins       ████████████████████████░   97.01 % 
+Vs Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
+💻 Operating System: 
+Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
+```
 
-<br />
-<br />
+**I Mostly Code in TypeScript** 
 
-### Languages and Tools
-
-<div>
-  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
-  <a href="https://getbootstrap.com/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="35px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
-
-
-<a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="35px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
-
-<a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" />
-<a href=" https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-
-<a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" />
-<a href="https://mui.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
-<a href="https://styled-components.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://static-00.iconduck.com/assets.00/file-type-styled-icon-256x256-wpqe4ldc.png" />
-<a href="https://ant.design/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://static-00.iconduck.com/assets.00/ant-design-icon-256x256-nqv2b1rn.png" />
-<a href="https://www.chartjs.org/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://asset.brandfetch.io/idFdo8ulhr/idzj34qGQm.png?updated=1700393174010" />
-<a href="https://sass-lang.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://static-00.iconduck.com/assets.00/file-type-sass-icon-256x192-ak7c0eha.png" />
-<a href="https://git-scm.com/downloads/logos" target="_blank"> <img class="icon" align="left"   width="32px" src="https://avatars.githubusercontent.com/u/72518640?s=48&v=4" />
-<a href="https://tanstack.com/query/v3/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://static-00.iconduck.com/assets.00/git-icon-256x256-nki51ae3.png" />
-
-[//]: # (<a  href="https://web.dev/explore/progressive-web-apps" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://assets.browserlondon.com/wp-content/uploads/2019/03/pwa-banner.png" />)
-
-  <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
-
-</div>
-
-<br />
-<br />
-
-### Softwares
-
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
-  <a href="https://www.jetbrains.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://static-00.iconduck.com/assets.00/webstorm-icon-256x256-2j0sa1sc.png" />
-  <a href="https://www.figma.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" />
-  <a href="https://www.postman.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png" /><br />
-<br />
-
-</div><br />
-<br />
+```text
+TypeScript            34 repos     ████████████░░░░░░░░░░░░░   47.89 % 
+CSS                   7 repos      ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JavaScript            3 repos      █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+```
 
 
 
 
+<!--END_SECTION:waka-->
