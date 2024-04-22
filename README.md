@@ -10,7 +10,7 @@ npx afazsad
 const afazsad = {
     pronouns: "He" | "Him",
     askMeAbout: ["Web Dev", "App Dev"],
-    technologies: ["Html", "Css", "Javascript", "Bootstarp", "Tailwind", "Reacr Js", "Next Js", "Styled Components", "Chart Js", "Material Ui", "Ant Desgin", "React Query", 'Redux', 'Typescript', "Sass",],
+    technologies: ["Html", "Css", "Javascript", "Bootstarp", "Tailwind", "Reacr Js", "Next Js", "Styled Components", "Chart Js", "Material Ui", "Ant Desgin", "React Query", 'Redux', 'Typescript', "Sass","PWA"],
     currentFocus: 'Currently, I want to learn backend development with JavaScript',
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
